@@ -1,6 +1,6 @@
-# 2FH4 MATLAB Scripts
+# MATLAB Scripts
 
-MATLAB code I wrote for the exercise sets in 2FH4 (Electromagnetics). Each set
+MATLAB code I wrote for the exercise sets in my Electromagnetics course. Each set
 starts as a problem I solved by hand, and the script is there to check that the
 analytical answer actually holds up. The general approach is the same
 throughout, which is to chop a region into a lot of small pieces, work out the
